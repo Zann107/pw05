@@ -36,7 +36,8 @@ img{
 	min-width: 25%;
 	max-width: 25%;
 	padding-left: 2%;
-	overflow: auto;
+	text-overflow: ellipsis;
+	max-height: 500px;
 }
 
 
